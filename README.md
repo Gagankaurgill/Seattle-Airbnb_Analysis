@@ -4,6 +4,9 @@ This project utilizes default packages within the Anaconda distribution of Pytho
 
 However, you will need to install plotly if you haven't already done so before. See [Getting Started with Plotly for Python](https://plot.ly/python/getting-started/).
 
+In addition, if you would like to display the plotly visualizations within the jupyter notebook, then you will need to install the orca commandline utility and the psutil and requests Python libraries. See [Static Image Export in Python](https://plot.ly/python/static-image-export/).
+
+
 The code should run with no issues using Python versions 3.8 and above.
 
 ## Project Motivation<a name="motivation"></a>
